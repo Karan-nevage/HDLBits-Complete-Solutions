@@ -3,6 +3,10 @@
 ## Overview
 This repository contains detailed solutions for all **HDLBits** exercises, which are designed to improve your understanding of **Verilog** and digital circuit design. HDLBits provides a collection of circuit challenges, ranging from beginner-friendly tutorials to advanced topics in combinational and sequential logic.
 
+## Video Solutions on YouTube
+I have solved all **HDLBits** questions on my **YouTube channel**, where I explain each problem in detail. Check out the complete playlist here:  
+[🔗 Watch HDLBits Solutions]([https://www.youtube.com/shorts/yR2mkO667YQ](https://youtube.com/playlist?list=PL4Nqve0IntZTr46KOmc3-zlAIldZfNGxz&si=4wZTFPmPOqyUKo4n))
+
 ## What is HDLBits?
 **HDLBits** is an interactive platform for learning **Verilog** through a structured set of exercises. It provides immediate feedback on submitted solutions, helping users debug and refine their circuits.
 
@@ -25,7 +29,3 @@ Contributions are welcome! If you find an optimized solution or improvements, fe
 
 ## License
 This project is open-source. Check the repository settings for the licensing terms.
-
----
-
-This README file ensures clarity, usability, and professional presentation of your repository. Want me to refine any part or add additional sections?
