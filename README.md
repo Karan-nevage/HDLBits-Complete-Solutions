@@ -28,12 +28,16 @@ HDLBits-Complete-Solution/
 ├── 1_getting_started/
 │   ├── question_01.v
 │   └── question_02.v
-└── 2_verilog_language/
-    ├── 1_basics/              question_01.v … question_08.v
-    ├── 2_vector/              question_01.v … question_09.v
-    ├── 3_modules/             question_01.v … question_09.v
-    ├── 4_procedures/          question_01.v … question_08.v
-    └── 5_more_verilog_features/ question_01.v … question_07.v
+├── 2_verilog_language/
+│   ├── 1_basics/              question_01.v … question_08.v
+│   ├── 2_vector/              question_01.v … question_09.v
+│   ├── 3_modules/             question_01.v … question_09.v
+│   ├── 4_procedures/          question_01.v … question_08.v
+│   └── 5_more_verilog_features/ question_01.v … question_07.v
+└── 3_circuits/
+    └── 1_combinational_logic/
+        ├── 1_basic_gates/     question_01.v … question_17.v
+        └── 2_multiplexers/    question_01.v … question_05.v
 ```
 
 ---
@@ -48,9 +52,11 @@ HDLBits-Complete-Solution/
 | 4 | Verilog Language → Modules: Hierarchy | `2_verilog_language/3_modules/` | 9 |
 | 5 | Verilog Language → Procedures | `2_verilog_language/4_procedures/` | 8 |
 | 6 | Verilog Language → More Verilog Features | `2_verilog_language/5_more_verilog_features/` | 7 |
-| | | **Total** | **43** |
+| 7 | Circuits → Combinational Logic → Basic Gates | `3_circuits/1_combinational_logic/1_basic_gates/` | 17 |
+| 8 | Circuits → Combinational Logic → Multiplexers | `3_circuits/1_combinational_logic/2_multiplexers/` | 5 |
+| | | **Total** | **65** |
 
-*More chapters (Circuits, Verification, etc.) will be added over time.*
+*In progress: Circuits → Combinational Logic (Arithmetic Circuits, Karnaugh Map to Circuit). More chapters (Sequential Logic, Verification, etc.) will be added over time.*
 
 ---
 
