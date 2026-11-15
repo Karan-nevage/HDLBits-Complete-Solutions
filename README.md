@@ -42,7 +42,10 @@ HDLBits-Complete-Solutions/
     │   └── 4_karnaugh_map_to_circuit/ question_01.v … question_08.v
     └── 2_sequential_logic/
         ├── 1_latches_and_flip_flops/ question_01.v … question_18.v
-        └── 2_counters/               question_01.v … question_08.v
+        ├── 2_counters/               question_01.v … question_08.v
+        ├── 3_shift_registers/        question_01.v … question_09.v
+        ├── 4_more_circuits/          question_01.v … question_03.v
+        └── 5_finite_state_machines/  question_01.v … question_33.v
 ```
 
 ---
@@ -63,9 +66,12 @@ HDLBits-Complete-Solutions/
 | 10 | Circuits → Combinational Logic → Karnaugh Map to Circuit | `3_circuits/1_combinational_logic/4_karnaugh_map_to_circuit/` | 8 |
 | 11 | Circuits → Sequential Logic → Latches and Flip-Flops | `3_circuits/2_sequential_logic/1_latches_and_flip_flops/` | 18 |
 | 12 | Circuits → Sequential Logic → Counters | `3_circuits/2_sequential_logic/2_counters/` | 8 |
-| | | **Total** | **106** |
+| 13 | Circuits → Sequential Logic → Shift Registers | `3_circuits/2_sequential_logic/3_shift_registers/` | 9 |
+| 14 | Circuits → Sequential Logic → More Circuits (Cellular Automata) | `3_circuits/2_sequential_logic/4_more_circuits/` | 3 |
+| 15 | Circuits → Sequential Logic → Finite State Machines | `3_circuits/2_sequential_logic/5_finite_state_machines/` | 33 |
+| | | **Total** | **151** |
 
-*Circuits → Combinational Logic is complete; Sequential Logic is in progress (Shift Registers, More Circuits, FSMs next). More chapters (Verification, etc.) will be added over time.*
+*Circuits → Combinational Logic and Sequential Logic are complete. More chapters (Building Larger Circuits, Verification, CS450) will be added over time.*
 
 ---
 
