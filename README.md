@@ -24,7 +24,7 @@ HDLBits is one of the best ways to learn digital design and Verilog. This reposi
 Problems are grouped by HDLBits chapter. Each chapter (a "set") is a folder, and every problem inside it is named `question_NN.v`.
 
 ```
-HDLBits-Complete-Solution/
+HDLBits-Complete-Solutions/
 ├── 1_getting_started/
 │   ├── question_01.v
 │   └── question_02.v
