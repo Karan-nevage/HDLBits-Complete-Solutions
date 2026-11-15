@@ -1,0 +1,33 @@
+/*==========================================================================================
+ * HDLBits Problem : Four-bit binary counter
+ * Category        : Circuits -> Sequential Logic -> Counters
+ * Link            : https://hdlbits.01xz.net/wiki/Count15
+ * Author          : Karankumar Nevage (Fluxray Electronics)
+ ==========================================================================================
+ * Problem Statement:
+ *   Build a 4-bit binary counter that counts 0 through 15 inclusive, with a
+ *   period of 16. A synchronous active-high reset sets the counter to 0.
+ *------------------------------------------------------------------------------------------
+ * Module Declaration:
+ *   module top_module (
+ *       input clk,
+ *       input reset,
+ *       output reg [3:0] q
+ *   );
+ */
+//==========================================================================================
+module top_module (
+    input clk,
+    input reset,
+    output reg [3:0] q
+);
+
+    always @(posedge clk) begin
+        if (reset)
+            q <= 4'd0;
+        else
+            q <= q + 4'd1;
+    end
+
+endmodule
+//==========================================================================================
