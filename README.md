@@ -36,9 +36,10 @@ HDLBits-Complete-Solution/
 │   └── 5_more_verilog_features/ question_01.v … question_07.v
 └── 3_circuits/
     └── 1_combinational_logic/
-        ├── 1_basic_gates/        question_01.v … question_17.v
-        ├── 2_multiplexers/       question_01.v … question_05.v
-        └── 3_arithmetic_circuits/ question_01.v … question_07.v
+        ├── 1_basic_gates/            question_01.v … question_17.v
+        ├── 2_multiplexers/           question_01.v … question_05.v
+        ├── 3_arithmetic_circuits/    question_01.v … question_07.v
+        └── 4_karnaugh_map_to_circuit/ question_01.v … question_08.v
 ```
 
 ---
@@ -56,9 +57,10 @@ HDLBits-Complete-Solution/
 | 7 | Circuits → Combinational Logic → Basic Gates | `3_circuits/1_combinational_logic/1_basic_gates/` | 17 |
 | 8 | Circuits → Combinational Logic → Multiplexers | `3_circuits/1_combinational_logic/2_multiplexers/` | 5 |
 | 9 | Circuits → Combinational Logic → Arithmetic Circuits | `3_circuits/1_combinational_logic/3_arithmetic_circuits/` | 7 |
-| | | **Total** | **72** |
+| 10 | Circuits → Combinational Logic → Karnaugh Map to Circuit | `3_circuits/1_combinational_logic/4_karnaugh_map_to_circuit/` | 8 |
+| | | **Total** | **80** |
 
-*In progress: Circuits → Combinational Logic (Karnaugh Map to Circuit). More chapters (Sequential Logic, Verification, etc.) will be added over time.*
+*Circuits → Combinational Logic is complete. More chapters (Sequential Logic, Verification, etc.) will be added over time.*
 
 ---
 
