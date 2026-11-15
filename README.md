@@ -35,11 +35,14 @@ HDLBits-Complete-Solutions/
 │   ├── 4_procedures/          question_01.v … question_08.v
 │   └── 5_more_verilog_features/ question_01.v … question_07.v
 └── 3_circuits/
-    └── 1_combinational_logic/
-        ├── 1_basic_gates/            question_01.v … question_17.v
-        ├── 2_multiplexers/           question_01.v … question_05.v
-        ├── 3_arithmetic_circuits/    question_01.v … question_07.v
-        └── 4_karnaugh_map_to_circuit/ question_01.v … question_08.v
+    ├── 1_combinational_logic/
+    │   ├── 1_basic_gates/            question_01.v … question_17.v
+    │   ├── 2_multiplexers/           question_01.v … question_05.v
+    │   ├── 3_arithmetic_circuits/    question_01.v … question_07.v
+    │   └── 4_karnaugh_map_to_circuit/ question_01.v … question_08.v
+    └── 2_sequential_logic/
+        ├── 1_latches_and_flip_flops/ question_01.v … question_18.v
+        └── 2_counters/               question_01.v … question_08.v
 ```
 
 ---
@@ -58,9 +61,11 @@ HDLBits-Complete-Solutions/
 | 8 | Circuits → Combinational Logic → Multiplexers | `3_circuits/1_combinational_logic/2_multiplexers/` | 5 |
 | 9 | Circuits → Combinational Logic → Arithmetic Circuits | `3_circuits/1_combinational_logic/3_arithmetic_circuits/` | 7 |
 | 10 | Circuits → Combinational Logic → Karnaugh Map to Circuit | `3_circuits/1_combinational_logic/4_karnaugh_map_to_circuit/` | 8 |
-| | | **Total** | **80** |
+| 11 | Circuits → Sequential Logic → Latches and Flip-Flops | `3_circuits/2_sequential_logic/1_latches_and_flip_flops/` | 18 |
+| 12 | Circuits → Sequential Logic → Counters | `3_circuits/2_sequential_logic/2_counters/` | 8 |
+| | | **Total** | **106** |
 
-*Circuits → Combinational Logic is complete. More chapters (Sequential Logic, Verification, etc.) will be added over time.*
+*Circuits → Combinational Logic is complete; Sequential Logic is in progress (Shift Registers, More Circuits, FSMs next). More chapters (Verification, etc.) will be added over time.*
 
 ---
 
