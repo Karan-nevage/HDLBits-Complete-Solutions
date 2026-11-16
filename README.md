@@ -40,12 +40,13 @@ HDLBits-Complete-Solutions/
     │   ├── 2_multiplexers/           question_01.v … question_05.v
     │   ├── 3_arithmetic_circuits/    question_01.v … question_07.v
     │   └── 4_karnaugh_map_to_circuit/ question_01.v … question_08.v
-    └── 2_sequential_logic/
-        ├── 1_latches_and_flip_flops/ question_01.v … question_18.v
-        ├── 2_counters/               question_01.v … question_08.v
-        ├── 3_shift_registers/        question_01.v … question_09.v
-        ├── 4_more_circuits/          question_01.v … question_03.v
-        └── 5_finite_state_machines/  question_01.v … question_33.v
+    ├── 2_sequential_logic/
+    │   ├── 1_latches_and_flip_flops/ question_01.v … question_18.v
+    │   ├── 2_counters/               question_01.v … question_08.v
+    │   ├── 3_shift_registers/        question_01.v … question_09.v
+    │   ├── 4_more_circuits/          question_01.v … question_03.v
+    │   └── 5_finite_state_machines/  question_01.v … question_33.v
+    └── 3_building_larger_circuits/   question_01.v … question_07.v
 ```
 
 ---
@@ -69,9 +70,11 @@ HDLBits-Complete-Solutions/
 | 13 | Circuits → Sequential Logic → Shift Registers | `3_circuits/2_sequential_logic/3_shift_registers/` | 9 |
 | 14 | Circuits → Sequential Logic → More Circuits (Cellular Automata) | `3_circuits/2_sequential_logic/4_more_circuits/` | 3 |
 | 15 | Circuits → Sequential Logic → Finite State Machines | `3_circuits/2_sequential_logic/5_finite_state_machines/` | 33 |
-| | | **Total** | **151** |
+| 16 | Circuits → Building Larger Circuits | `3_circuits/3_building_larger_circuits/` | 7 |
+| 17 | Verification: Reading Simulations → Finding Bugs in Code | `4_verification_reading_simulations/1_finding_bugs_in_code/` | 5 |
+| | | **Total** | **163** |
 
-*Circuits → Combinational Logic and Sequential Logic are complete. More chapters (Building Larger Circuits, Verification, CS450) will be added over time.*
+*Circuits → Combinational Logic, Sequential Logic, and Building Larger Circuits are complete. More chapters (Verification, CS450) will be added over time.*
 
 ---
 
